@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Fira+Sans+Condensed:wght@300&display=swap');
+
+* {
+
+  padding: 0;
+  margin: 0;
+
+}
+
+html, body, div#react-root {
+
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-size: 18px;
+
+}
+
+code, pre {
+
+  font-family: "Fira Code", monospace;
+
+}
